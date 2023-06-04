@@ -1,2 +1,5 @@
-# Calculadora.py
-Projeto desenvolvido pra criação de uma Calculadora
+# Sistema de cadastro
+
+> status do projeto: Em desenvolvimento
+
+Para rodar esse projeto em sua máquina vocÊ precisa usar o Visual Studio Code ou Pycharm ;)
